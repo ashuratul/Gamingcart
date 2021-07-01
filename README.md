@@ -1,5 +1,8 @@
 # Gamingcart
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c686826b-4bec-4dc5-9177-7d415349c2df/deploy-status)](https://app.netlify.com/sites/gamingcart/deploys)
+
+
+
 Snippets:
 1 -->![Screenshot (71)](https://user-images.githubusercontent.com/61398091/124163140-e83dc080-dabc-11eb-9684-ca374bde2eab.png)
 2 -->![Screenshot (72)](https://user-images.githubusercontent.com/61398091/124163269-0e636080-dabd-11eb-9ee6-3d8362f04765.png)
