@@ -3,7 +3,12 @@
 
 
 Website link --->https://gamingcart.netlify.app/
+
+
+
 Snippets:
+
+
 1 -->![Screenshot (71)](https://user-images.githubusercontent.com/61398091/124163140-e83dc080-dabc-11eb-9684-ca374bde2eab.png)
 2 -->![Screenshot (72)](https://user-images.githubusercontent.com/61398091/124163269-0e636080-dabd-11eb-9ee6-3d8362f04765.png)
 3 --> ![Screenshot (73)](https://user-images.githubusercontent.com/61398091/124163347-26d37b00-dabd-11eb-9850-8e7aa480df38.png)
